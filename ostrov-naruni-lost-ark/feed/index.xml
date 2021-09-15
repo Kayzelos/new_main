@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Комментарии: Остров Наруни в Лост Арк: Душа и Семена Мококо	</title>
+	<atom:link href="/ostrov-naruni-lost-ark/feed/" rel="self" type="application/rss+xml" />
+	<link>/ostrov-naruni-lost-ark/</link>
+	<description></description>
+	<lastBuildDate>Wed, 15 Sep 2021 16:21:08 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4.7</generator>
+	<item>
+		<title>
+		Автор: крогл		</title>
+		<link>/ostrov-naruni-lost-ark/#comment-3987</link>
+
+		<dc:creator><![CDATA[крогл]]></dc:creator>
+		<pubDate>Fri, 12 Feb 2021 09:01:54 +0000</pubDate>
+		<guid isPermaLink="false">https://gogamesonline.ru/?p=308#comment-3987</guid>
+
+					<description><![CDATA[В ответ на &lt;a href=&quot;/ostrov-naruni-lost-ark/#comment-3986&quot;&gt;крогл&lt;/a&gt;.
+
+разобрался, квест висел на твинке]]></description>
+			<content:encoded><![CDATA[<p>В ответ на <a href="/ostrov-naruni-lost-ark/#comment-3986">крогл</a>.</p>
+<p>разобрался, квест висел на твинке</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Автор: крогл		</title>
+		<link>/ostrov-naruni-lost-ark/#comment-3986</link>
+
+		<dc:creator><![CDATA[крогл]]></dc:creator>
+		<pubDate>Fri, 12 Feb 2021 08:58:39 +0000</pubDate>
+		<guid isPermaLink="false">https://gogamesonline.ru/?p=308#comment-3986</guid>
+
+					<description><![CDATA[нет квеста, душа не получена, что делать?]]></description>
+			<content:encoded><![CDATA[<p>нет квеста, душа не получена, что делать?</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

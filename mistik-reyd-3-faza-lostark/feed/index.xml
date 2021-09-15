@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Комментарии: Рейд Бездны «Мистик» 3 фаза в Лост Арк	</title>
+	<atom:link href="/mistik-reyd-3-faza-lostark/feed/" rel="self" type="application/rss+xml" />
+	<link>/mistik-reyd-3-faza-lostark/</link>
+	<description></description>
+	<lastBuildDate>Wed, 15 Sep 2021 16:20:10 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4.7</generator>
+	<item>
+		<title>
+		Автор: tiluma		</title>
+		<link>/mistik-reyd-3-faza-lostark/#comment-2260</link>
+
+		<dc:creator><![CDATA[tiluma]]></dc:creator>
+		<pubDate>Sun, 22 Nov 2020 21:08:43 +0000</pubDate>
+		<guid isPermaLink="false">https://gogamesonline.ru/?p=2759#comment-2260</guid>
+
+					<description><![CDATA[Пожалуйста выложите гайд с Кайшура! Очень много механика вообще не понятно с 2-4 фаза.]]></description>
+			<content:encoded><![CDATA[<p>Пожалуйста выложите гайд с Кайшура! Очень много механика вообще не понятно с 2-4 фаза.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

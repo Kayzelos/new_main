@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Комментарии: Остров Большой Плавник в Лост Арк: Душа и Мококо	</title>
+	<atom:link href="/ostrov-bolshoy-plavnik-lostark/feed/" rel="self" type="application/rss+xml" />
+	<link>/ostrov-bolshoy-plavnik-lostark/</link>
+	<description></description>
+	<lastBuildDate>Wed, 15 Sep 2021 16:20:10 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4.7</generator>
+	<item>
+		<title>
+		Автор: Лыбася		</title>
+		<link>/ostrov-bolshoy-plavnik-lostark/#comment-835</link>
+
+		<dc:creator><![CDATA[Лыбася]]></dc:creator>
+		<pubDate>Mon, 15 Jun 2020 17:48:03 +0000</pubDate>
+		<guid isPermaLink="false">https://gogamesonline.ru/?p=2670#comment-835</guid>
+
+					<description><![CDATA[1 мешок всем оставшимся]]></description>
+			<content:encoded><![CDATA[<p>1 мешок всем оставшимся</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Автор: sanya		</title>
+		<link>/ostrov-bolshoy-plavnik-lostark/#comment-768</link>
+
+		<dc:creator><![CDATA[sanya]]></dc:creator>
+		<pubDate>Wed, 10 Jun 2020 10:33:30 +0000</pubDate>
+		<guid isPermaLink="false">https://gogamesonline.ru/?p=2670#comment-768</guid>
+
+					<description><![CDATA[Понедельник, вторник в 13:00 и 20:30 (мск)]]></description>
+			<content:encoded><![CDATA[<p>Понедельник, вторник в 13:00 и 20:30 (мск)</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

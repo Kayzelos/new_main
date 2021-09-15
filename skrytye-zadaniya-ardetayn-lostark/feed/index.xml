@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Комментарии: Скрытые задания Ардетайн в Лост Арк	</title>
+	<atom:link href="/skrytye-zadaniya-ardetayn-lostark/feed/" rel="self" type="application/rss+xml" />
+	<link>/skrytye-zadaniya-ardetayn-lostark/</link>
+	<description></description>
+	<lastBuildDate>Wed, 15 Sep 2021 16:20:27 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4.7</generator>
+	<item>
+		<title>
+		Автор: Freya		</title>
+		<link>/skrytye-zadaniya-ardetayn-lostark/#comment-1454</link>
+
+		<dc:creator><![CDATA[Freya]]></dc:creator>
+		<pubDate>Sat, 26 Sep 2020 11:57:53 +0000</pubDate>
+		<guid isPermaLink="false">https://gogamesonline.ru/?p=2036#comment-1454</guid>
+
+					<description><![CDATA[За квест &quot;Любимая артистка техната&quot; мудрость не дают. Просто награда, указанная в квесте.]]></description>
+			<content:encoded><![CDATA[<p>За квест &#171;Любимая артистка техната&#187; мудрость не дают. Просто награда, указанная в квесте.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

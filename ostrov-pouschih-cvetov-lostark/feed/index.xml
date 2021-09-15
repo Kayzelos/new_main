@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Комментарии: Остров Поющих Цветов в Лост Арк: Душа, Мококо и Симфония	</title>
+	<atom:link href="/ostrov-pouschih-cvetov-lostark/feed/" rel="self" type="application/rss+xml" />
+	<link>/ostrov-pouschih-cvetov-lostark/</link>
+	<description></description>
+	<lastBuildDate>Wed, 15 Sep 2021 16:20:57 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4.7</generator>
+	<item>
+		<title>
+		Автор: Артем		</title>
+		<link>/ostrov-pouschih-cvetov-lostark/#comment-71</link>
+
+		<dc:creator><![CDATA[Артем]]></dc:creator>
+		<pubDate>Mon, 02 Mar 2020 10:41:37 +0000</pubDate>
+		<guid isPermaLink="false">https://gogamesonline.ru/?p=406#comment-71</guid>
+
+					<description><![CDATA[В ответ на &lt;a href=&quot;/ostrov-pouschih-cvetov-lostark/#comment-69&quot;&gt;AngelusSol&lt;/a&gt;.
+
+С крайнего левого угла]]></description>
+			<content:encoded><![CDATA[<p>В ответ на <a href="/ostrov-pouschih-cvetov-lostark/#comment-69">AngelusSol</a>.</p>
+<p>С крайнего левого угла</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Автор: AngelusSol		</title>
+		<link>/ostrov-pouschih-cvetov-lostark/#comment-69</link>
+
+		<dc:creator><![CDATA[AngelusSol]]></dc:creator>
+		<pubDate>Sun, 01 Mar 2020 19:05:13 +0000</pubDate>
+		<guid isPermaLink="false">https://gogamesonline.ru/?p=406#comment-69</guid>
+
+					<description><![CDATA[так с кого начинать с первого там их 2]]></description>
+			<content:encoded><![CDATA[<p>так с кого начинать с первого там их 2</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Комментарии: Штаб-квартира Корпорации нюхлей в Лост Арк	</title>
+	<atom:link href="/korporaciya-nuhley-lostark/feed/" rel="self" type="application/rss+xml" />
+	<link>/korporaciya-nuhley-lostark/</link>
+	<description></description>
+	<lastBuildDate>Wed, 15 Sep 2021 16:19:13 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4.7</generator>
+	<item>
+		<title>
+		Автор: Munirka		</title>
+		<link>/korporaciya-nuhley-lostark/#comment-2821</link>
+
+		<dc:creator><![CDATA[Munirka]]></dc:creator>
+		<pubDate>Sat, 19 Dec 2020 06:17:13 +0000</pubDate>
+		<guid isPermaLink="false">https://gogamesonline.ru/?p=4317#comment-2821</guid>
+
+					<description><![CDATA[Спасибо за подробное разъяснение по острову)]]></description>
+			<content:encoded><![CDATA[<p>Спасибо за подробное разъяснение по острову)</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Автор: Кирилл		</title>
+		<link>/korporaciya-nuhley-lostark/#comment-2501</link>
+
+		<dc:creator><![CDATA[Кирилл]]></dc:creator>
+		<pubDate>Tue, 01 Dec 2020 12:58:16 +0000</pubDate>
+		<guid isPermaLink="false">https://gogamesonline.ru/?p=4317#comment-2501</guid>
+
+					<description><![CDATA[А подскажите по ивенту который раз в час проходит? Это проверенная инфа?]]></description>
+			<content:encoded><![CDATA[<p>А подскажите по ивенту который раз в час проходит? Это проверенная инфа?</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

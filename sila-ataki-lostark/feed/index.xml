@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Комментарии: Сила Атаки в Лост Арк	</title>
+	<atom:link href="/sila-ataki-lostark/feed/" rel="self" type="application/rss+xml" />
+	<link>/sila-ataki-lostark/</link>
+	<description></description>
+	<lastBuildDate>Wed, 15 Sep 2021 16:19:13 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4.7</generator>
+	<item>
+		<title>
+		Автор: Monobrow		</title>
+		<link>/sila-ataki-lostark/#comment-3160</link>
+
+		<dc:creator><![CDATA[Monobrow]]></dc:creator>
+		<pubDate>Sat, 02 Jan 2021 05:57:10 +0000</pubDate>
+		<guid isPermaLink="false">https://gogamesonline.ru/?p=4438#comment-3160</guid>
+
+					<description><![CDATA[В ответ на &lt;a href=&quot;/sila-ataki-lostark/#comment-3159&quot;&gt;Monobrow&lt;/a&gt;.
+
+Пример выше для кайшура 4 фазы]]></description>
+			<content:encoded><![CDATA[<p>В ответ на <a href="/sila-ataki-lostark/#comment-3159">Monobrow</a>.</p>
+<p>Пример выше для кайшура 4 фазы</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Автор: Monobrow		</title>
+		<link>/sila-ataki-lostark/#comment-3159</link>
+
+		<dc:creator><![CDATA[Monobrow]]></dc:creator>
+		<pubDate>Sat, 02 Jan 2021 05:53:09 +0000</pubDate>
+		<guid isPermaLink="false">https://gogamesonline.ru/?p=4438#comment-3159</guid>
+
+					<description><![CDATA[В ответ на &lt;a href=&quot;/sila-ataki-lostark/#comment-2877&quot;&gt;Bambi&lt;/a&gt;.
+
+Она работает всегда, но не влияет на брейкпойнты. Т.е. если базовая атака у тебя 6152 и ты наносишь 1м урона вместо обычных 2м из-за штрафа, то с големом ты будешь наносить 1.16м, а не 2.32м.]]></description>
+			<content:encoded><![CDATA[<p>В ответ на <a href="/sila-ataki-lostark/#comment-2877">Bambi</a>.</p>
+<p>Она работает всегда, но не влияет на брейкпойнты. Т.е. если базовая атака у тебя 6152 и ты наносишь 1м урона вместо обычных 2м из-за штрафа, то с големом ты будешь наносить 1.16м, а не 2.32м.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Автор: Bambi		</title>
+		<link>/sila-ataki-lostark/#comment-2877</link>
+
+		<dc:creator><![CDATA[Bambi]]></dc:creator>
+		<pubDate>Mon, 21 Dec 2020 18:07:29 +0000</pubDate>
+		<guid isPermaLink="false">https://gogamesonline.ru/?p=4438#comment-2877</guid>
+
+					<description><![CDATA[В ответ на &lt;a href=&quot;/sila-ataki-lostark/#comment-2847&quot;&gt;Зас&lt;/a&gt;.
+
+Она не работает, если не хватает минимальной силы атаки]]></description>
+			<content:encoded><![CDATA[<p>В ответ на <a href="/sila-ataki-lostark/#comment-2847">Зас</a>.</p>
+<p>Она не работает, если не хватает минимальной силы атаки</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Автор: Зас		</title>
+		<link>/sila-ataki-lostark/#comment-2847</link>
+
+		<dc:creator><![CDATA[Зас]]></dc:creator>
+		<pubDate>Sun, 20 Dec 2020 08:33:21 +0000</pubDate>
+		<guid isPermaLink="false">https://gogamesonline.ru/?p=4438#comment-2847</guid>
+
+					<description><![CDATA[Что то я не понял по поводу голема, какой в ней смысл тогда, если она не работает в актуальных активностях?]]></description>
+			<content:encoded><![CDATA[<p>Что то я не понял по поводу голема, какой в ней смысл тогда, если она не работает в актуальных активностях?</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Автор: Иван		</title>
+		<link>/sila-ataki-lostark/#comment-2745</link>
+
+		<dc:creator><![CDATA[Иван]]></dc:creator>
+		<pubDate>Tue, 15 Dec 2020 00:04:34 +0000</pubDate>
+		<guid isPermaLink="false">https://gogamesonline.ru/?p=4438#comment-2745</guid>
+
+					<description><![CDATA[Учитывается вообще только что написана зелёным цветом, когда наводишь на силу атаки -&quot;*Базовая сила атаки составляет ХХХХ ед.&quot;, потому что есть ещё  гильдей бафф на 6% , может ещё какие то есть, еда кстати работает, сам тестил.]]></description>
+			<content:encoded><![CDATA[<p>Учитывается вообще только что написана зелёным цветом, когда наводишь на силу атаки -&#171;*Базовая сила атаки составляет ХХХХ ед.&#187;, потому что есть ещё  гильдей бафф на 6% , может ещё какие то есть, еда кстати работает, сам тестил.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

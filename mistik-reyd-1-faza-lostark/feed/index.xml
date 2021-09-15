@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Комментарии: Рейд Бездны «Мистик» 1 фаза в Лост Арк	</title>
+	<atom:link href="/mistik-reyd-1-faza-lostark/feed/" rel="self" type="application/rss+xml" />
+	<link>/mistik-reyd-1-faza-lostark/</link>
+	<description></description>
+	<lastBuildDate>Wed, 15 Sep 2021 16:20:10 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4.7</generator>
+	<item>
+		<title>
+		Автор: Нашатырь		</title>
+		<link>/mistik-reyd-1-faza-lostark/#comment-1246</link>
+
+		<dc:creator><![CDATA[Нашатырь]]></dc:creator>
+		<pubDate>Tue, 01 Sep 2020 15:11:21 +0000</pubDate>
+		<guid isPermaLink="false">https://gogamesonline.ru/?p=2575#comment-1246</guid>
+
+					<description><![CDATA[Спасибо добрый человек.]]></description>
+			<content:encoded><![CDATA[<p>Спасибо добрый человек.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Автор: HoneyViolet		</title>
+		<link>/mistik-reyd-1-faza-lostark/#comment-882</link>
+
+		<dc:creator><![CDATA[HoneyViolet]]></dc:creator>
+		<pubDate>Sun, 28 Jun 2020 19:55:35 +0000</pubDate>
+		<guid isPermaLink="false">https://gogamesonline.ru/?p=2575#comment-882</guid>
+
+					<description><![CDATA[Благодарю за труды]]></description>
+			<content:encoded><![CDATA[<p>Благодарю за труды</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

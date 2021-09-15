@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Комментарии: Остров Свободы в Лост Арк: Душа, Мококо и Музыкальная Шкатулка	</title>
+	<atom:link href="/ostrov-svobody-lostark/feed/" rel="self" type="application/rss+xml" />
+	<link>/ostrov-svobody-lostark/</link>
+	<description></description>
+	<lastBuildDate>Wed, 15 Sep 2021 16:21:08 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4.7</generator>
+	<item>
+		<title>
+		Автор: Данни		</title>
+		<link>/ostrov-svobody-lostark/#comment-2256</link>
+
+		<dc:creator><![CDATA[Данни]]></dc:creator>
+		<pubDate>Sun, 22 Nov 2020 19:30:18 +0000</pubDate>
+		<guid isPermaLink="false">https://gogamesonline.ru/?p=321#comment-2256</guid>
+
+					<description><![CDATA[Торгаш есть, но вместо 16800 дублонов, она теперь стоит 60 000 дублонов]]></description>
+			<content:encoded><![CDATA[<p>Торгаш есть, но вместо 16800 дублонов, она теперь стоит 60 000 дублонов</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Автор: Лина		</title>
+		<link>/ostrov-svobody-lostark/#comment-1861</link>
+
+		<dc:creator><![CDATA[Лина]]></dc:creator>
+		<pubDate>Sat, 24 Oct 2020 18:57:14 +0000</pubDate>
+		<guid isPermaLink="false">https://gogamesonline.ru/?p=321#comment-1861</guid>
+
+					<description><![CDATA[Капитана Чернозубку ОГРАБИЛИ! ))) И торгаша с сердцем больше нет.]]></description>
+			<content:encoded><![CDATA[<p>Капитана Чернозубку ОГРАБИЛИ! ))) И торгаша с сердцем больше нет.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
