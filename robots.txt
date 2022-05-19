@@ -1,4 +1,4 @@
--User-agent: Yandex
+User-agent: Yandex
 Disallow: /wp-admin
 Disallow: /wp-includes
 Disallow: /wp-content/plugins
