@@ -1,0 +1,7 @@
+.idea/*
+.idea/vcs.xml
+.idea/new_main.iml
+.idea/modules.xml
+.idea/deployment.xml
+.idea/sshConfigs.xml
+.gitignore
